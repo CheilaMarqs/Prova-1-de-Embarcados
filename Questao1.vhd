@@ -5,7 +5,7 @@ entity portas is
 port(
   A, B : IN BIT;
   X : OUT BIT;
-     );
+);
 end portas;
 
 architecture circuito of portas is
