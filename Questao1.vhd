@@ -4,7 +4,7 @@ USE STANDARD.ALL;
 entity portas is
 port(
   A, B : IN BIT;
-  X : OUT BIT;
+  X : OUT BIT
 );
 end portas;
 
